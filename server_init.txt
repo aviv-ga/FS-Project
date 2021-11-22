@@ -1,0 +1,12 @@
+Steps to start a server!
+
+1. Create a new folder
+2. create a new file inside this folder called main.js
+3. create package.json by running in terminal: "npm init -y"
+4. install modules:
+-- express module: "npm i express"
+-- nodemon module: "npm install --save-dev nodemon"
+-- install cors by: npm i cors
+-- install pgDB by: num i pg
+-- install web token by: npm I jsowebtoken
+
